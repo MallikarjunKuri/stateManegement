@@ -1,0 +1,2 @@
+In a class-based component in React Native, state is managed using the this.state object and the this.setState()
+method. Here's how you can achieve the same functionality as the previous example using a class-based component:

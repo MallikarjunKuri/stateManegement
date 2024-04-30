@@ -1,0 +1,3 @@
+In React Native, the useState hook is used to add state to functional components.
+It allows you to declare state variables in functional components and provides a function to update them.
+Here's an example of how to use useState hook in a React Native component:
